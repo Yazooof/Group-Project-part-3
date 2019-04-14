@@ -13,6 +13,15 @@ public class SiteActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_site);
 
+//        Button btn = (Button)findViewById(R.id.continueButton);
+//
+//        btn.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                startActivity(new Intent(SiteActivity.this, ReadingActivty.class));
+//            }
+//        });
+
 
 
 

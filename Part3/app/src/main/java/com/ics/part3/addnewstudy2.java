@@ -1,20 +1,13 @@
 package com.ics.part3;
 
-import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 
-public class SiteActivity extends AppCompatActivity {
+public class addnewstudy2 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_site);
-
-
-
-
+        setContentView(R.layout.activity_addnewstudy2);
     }
 }

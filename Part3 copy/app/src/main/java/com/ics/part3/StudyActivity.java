@@ -21,17 +21,5 @@ public class StudyActivity extends AppCompatActivity {
                 startActivity(new Intent(StudyActivity.this, SiteActivity.class));
             }
         });
-
-
-        Button btn2 = (Button)findViewById(R.id.AddnewstudyButton);
-        btn2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(StudyActivity.this, addnewstudy2.class));
-            }
-        });
-
     }
-
-
 }
