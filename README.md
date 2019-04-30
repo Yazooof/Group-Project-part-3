@@ -23,6 +23,7 @@ https://streamable.com/nu3yd
       - click "OK"
         - now close the app
         
-5. Go to your sd card look for "mydir" folder and then click on JSONFILE.json to view inputs
+5. you must have a phone that uses an sd card to view your the data file
+  - Go to your sd card look for "mydir" folder and then click on JSONFILE.json to view inputs
 
 
